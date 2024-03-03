@@ -183,4 +183,4 @@ function setUpdate() {
 
 setTimeout(() => {
     alert('Eres una perrita!')   
-}, 75000);
+}, 45000);
